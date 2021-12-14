@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ubuntu-admin-scripts
+Upstream-Contact: Tim Cutts <tim@thecutts.org>
+Source: https://github.com/tcutts/ubuntu-admin-scripts
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
