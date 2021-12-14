@@ -1,4 +1,9 @@
 #!/usr/bin/python
+
+# SPDX-FileCopyrightText: 2021 Tim Cutts
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 # vi:sw=4:ts=4:ai:cindent:et
 # identify uninstallable kernel image packages (i.e. not latest,
 # running, or dependency-tracking)
